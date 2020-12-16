@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607862259 source:m:\computerscience\u6_weekday\main.c
+	<stdio.h>
+	<stdlib.h>
+
